@@ -89,7 +89,8 @@ m.sendMessage(args)
        $bc1  |  لأرسال برود كاست للأونلاين
 
        $bc3 | برودكاست عادي
-    By Avatar
+ 
+       By Avatar
        ** `)
    message.author.sendEmbed(embed)
    
